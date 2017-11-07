@@ -1,3 +1,3 @@
 # calculator
 My first WPF application
-![alt text](https://github.com/andzejek/Edytor5/blob/master/example2.png)<br>
+![alt text](https://github.com/andzejek/calculator/blob/master/example.PNG)<br>
